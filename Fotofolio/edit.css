@@ -1,0 +1,19 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: rgb(255, 255, 255);
+}
+
+#about {
+    padding-top: 0rem;
+    background-color: #D7D7D7;
+}
+
+#contact {
+    padding-bottom: 1rem;
+}
+#hobby {
+    padding-top: 3rem;
+}
+#contact {
+    padding-bottom: 3rem;
+}
